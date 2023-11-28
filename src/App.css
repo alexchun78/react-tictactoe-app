@@ -1,0 +1,9 @@
+.game {
+  display: flex;
+}
+
+.game-board {
+  margin-left: 20px;
+}
+
+.game-info {}

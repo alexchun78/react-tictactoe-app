@@ -2,8 +2,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <p> REACT TEST!! </p>
+    <div className="game">
+      <div className="game-board">
+
+      </div>
+      <div className="game-info">
+        
+      </div>
     </div>
   );
 }
